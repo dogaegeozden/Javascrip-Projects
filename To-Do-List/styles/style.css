@@ -1,0 +1,29 @@
+.text-box{
+    width: 600px;
+    height: auto;
+    border: solid lightblue 5px;
+    background: yellow;
+    padding: 20px 10px;
+    margin: auto;
+    min-height: 600px;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.item-box {
+    float: left;
+    width: 500px;
+    margin: 10px;
+    background-color: orange;
+}
+button {
+    float: right;
+}
+
+input {
+    margin-bottom: 20px;
+    width: 500px;
+}
