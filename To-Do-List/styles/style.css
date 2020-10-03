@@ -1,11 +1,18 @@
 .text-box{
-    width: 600px;
     height: auto;
-    border: solid lightblue 5px;
-    background: yellow;
+    border: solid #1f5223 25px;
+    background: #dadada;
     padding: 20px 10px;
     margin: auto;
     min-height: 600px;
+    max-width: 650px;
+
+}
+
+.Header-Box {
+    background: #25632a;
+    padding: 1px 10px 0px 10px;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -19,6 +26,7 @@ h1{
     margin: 10px;
     background-color: orange;
 }
+
 button {
     float: right;
 }
