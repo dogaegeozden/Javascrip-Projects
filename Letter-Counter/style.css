@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+
+}
+
+.text-box{
+    margin: auto;
+    background: red;
+    height: auto;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 250px;
+}
