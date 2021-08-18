@@ -1,0 +1,60 @@
+.Product-Main-Frame {
+    min-height: 500px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    background: #299ecd;
+    border: 15px solid black;
+    /* float: left;     */
+
+}
+
+.product-frame {
+    height: 300px;
+    width: 200px;
+    float: left;
+}
+
+.product-frame img {
+    height: 300px;
+    width: 200px;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.Cart-Box {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    min-height: 320px;
+    height: auto;
+    width: 300px;
+    background: #688949;
+    padding: 10px;
+    border: 15px solid black;
+}
+
+.Cart-Box h3 {
+    text-align: center;
+}
+
+.Cart-Box .total {
+    position: absolute;
+    bottom: 0px;
+    float: left;
+
+}
+
+.Cart-Box .checkoutbtn {
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    float: left;
+
+}
+
+.Cart-Box .checkoutbtn a {
+    text-decoration: none;
+    color: black;
+}
