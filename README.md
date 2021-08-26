@@ -10,6 +10,6 @@ index.html
 ```
 
 ## Editing
-You can edit and improve these files using my favorite text editor, Atom. You can improve your atom text editor, by installing packages, themses and setting your own prefered settings. You can install script package to run applications within Atom text editor. You can install minimap package to have a minimap open, on the right side of your Atom window. 
+You can edit and improve these applications, using my favorite text editor, Atom. You can improve your atom text editor, by installing packages, themses and, setting your own prefered settings. You can install script package to run applications within Atom text editor. You can install minimap package to have a minimap open, on the right side of your Atom window. 
 
 
