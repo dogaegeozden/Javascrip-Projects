@@ -1,0 +1,15 @@
+.the-box {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    border: 5px solid lightblue;
+    padding-top: 50px;
+    background: yellow;
+}
+
+.the-box h1 {
+    margin-bottom: 60px;
+    font-size: 100px;
+    font-weight: 50;
+}
