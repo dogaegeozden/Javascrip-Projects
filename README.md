@@ -2,7 +2,7 @@
 These are my javascript applications. I wrote these applications using HTML5, CSS3, Javascript. 
 
 ## Usage
-In order to use or test these applications, you already had been downloaded the zip folder to your device and start the main html files by either double clicking on them or using cmd.
+In order to use or test these applications, you already had been downloaded the zip folder to your device and start the main html files by either double clicking on them or, using cmd.
 
 ```batch
 cd Desktop\customer-support
