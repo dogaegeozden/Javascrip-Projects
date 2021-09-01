@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let canvas = document.querySelector('canvas');
 let ctx = canvas.getContext('2d');
 
