@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let mySlideImage = document.querySelector("img");
 let nextButton = document.querySelector(".next");
 let prevButton = document.querySelector(".prev");
