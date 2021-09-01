@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let btn = document.querySelector(".submit");
 let discussionBox = document.querySelector(".discussion-box-deactive");
 let msgViewBox = document.querySelector(".message-view-box");
