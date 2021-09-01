@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let numberArea = document.querySelector("h1");
 let increaseButton = document.querySelector(".increase");
 let decreaseButton = document.querySelector(".decrease");
