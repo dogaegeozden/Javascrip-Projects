@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let addToCart = document.querySelectorAll(".Add-To-Cart");
 let cartBox = document.querySelector(".Cart-Box");
 let cartTotal = 0;
