@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let addItemButton = document.querySelector("button");
 let toDoListBox = document.querySelector(".text-box");
 
