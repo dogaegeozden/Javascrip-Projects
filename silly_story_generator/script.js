@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 // This is the part where you grap the DOM tree elements
 let nameArea = document.querySelector(".User-Name");
 let generatorButton = document.querySelector(".Generator-Btn");
