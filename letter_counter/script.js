@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let submitBtn = document.querySelector("button");
 
 document.addEventListener('keypress', lengthCalculator);
