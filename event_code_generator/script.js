@@ -1,3 +1,4 @@
+// Copyright © 2021 All rights reserved. Doga Ege Ozden
 let userNameArea = document.querySelector(".name-input");
 let userSurNameArea = document.querySelector(".last-name-input");
 let userAgeArea = document.querySelector(".age-input");
